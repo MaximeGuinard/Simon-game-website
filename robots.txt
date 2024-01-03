@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /js/*
+Disallow: /css/*
+
+Sitemap: https://jeu.simon.maxime-guinard.fr/sitemap.xml
